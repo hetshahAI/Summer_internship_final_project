@@ -42,7 +42,7 @@ The system includes joystick-driven navigation, OLED UI rendering, deep-sleep ha
 
 ## 🎥 Project Demo
 
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![Watch the demo](https://youtube.com/shorts/yGZhgMbDZ7I)
 
 
 
