@@ -38,35 +38,6 @@ The system includes joystick-driven navigation, OLED UI rendering, deep-sleep ha
 
 ---
 
-## 📁 Folder Structure
-
-Summer_Internship_Final_Project/
-├── main.py # Full firmware with all features integrated
-├── boot.py # Optional (used for boot tasks if needed)
-├── lib/
-│ └── ssd1306.py # Custom SSD1306 OLED driver
-├── features/ # Separated modular feature files
-│ ├── sleep_mode.py
-│ ├── servo_control.py
-│ ├── motor_control.py
-│ ├── catch_game.py
-│ ├── dino_game.py
-├── demo_video.mp4 # 🎥 Demo (optional)
-├── README.md # 📘 You're here
-
-
----
-##📄 [Internship Project Report (PDF)](docs/project_report.pdf)
----
-## 📷 Screenshots (Optional)
-
-> Add visuals here to make it eye-catching:  
-> - Menu UI  
-> - Servo slider  
-> - Catch game in action  
-> - Dino game jump moment  
-> *(Use `.gif` or small `.png` inside a `screenshots/` folder)*
-
 ---
 
 ## 🎥 Project Demo
