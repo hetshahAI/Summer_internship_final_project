@@ -37,14 +37,9 @@ The system includes joystick-driven navigation, OLED UI rendering, deep-sleep ha
 | **Libraries**    | `framebuf`, custom `ssd1306.py` driver |
 
 ---
-
----
-
 ## 🎥 Project Demo
 
-## 🎥 Project Demo
-
-[![Watch the demo](./thumbnail.jpg)](https://youtube.com/shorts/yGZhgMbDZ7I)
+[![Watch the demo](image/thumbnail.jpg)](https://youtube.com/shorts/yGZhgMbDZ7I)
 
 
 
