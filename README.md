@@ -42,7 +42,10 @@ The system includes joystick-driven navigation, OLED UI rendering, deep-sleep ha
 
 ## 🎥 Project Demo
 
-[![Watch the demo]([https://www.google.com/imgres?q=esp32%20electionic%20classic%20pic&imgurl=https%3A%2F%2Frandomnerdtutorials.com%2Fwp-content%2Fuploads%2F2022%2F10%2FESP32-Getting-Started.jpg&imgrefurl=https%3A%2F%2Frandomnerdtutorials.com%2Fgetting-started-with-esp32%2F&docid=we8tJVOHH26hIM&tbnid=njC-5z-AVxpJTM&vet=12ahUKEwjsqtmvn8GOAxWdTmwGHWyVNa4QM3oECB0QAA..i&w=1280&h=720&hcb=2&itg=1&ved=2ahUKEwjsqtmvn8GOAxWdTmwGHWyVNa4QM3oECB0QAA](https://youtube.com/shorts/yGZhgMbDZ7I))
+## 🎥 Project Demo
+
+[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg](https://www.google.com/imgres?q=esp32%20electionic%20classic%20pic&imgurl=https%3A%2F%2Frandomnerdtutorials.com%2Fwp-content%2Fuploads%2F2022%2F10%2FESP32-Getting-Started.jpg&imgrefurl=https%3A%2F%2Frandomnerdtutorials.com%2Fgetting-started-with-esp32%2F&docid=we8tJVOHH26hIM&tbnid=njC-5z-AVxpJTM&vet=12ahUKEwjsqtmvn8GOAxWdTmwGHWyVNa4QM3oECB0QAA..i&w=1280&h=720&hcb=2&itg=1&ved=2ahUKEwjsqtmvn8GOAxWdTmwGHWyVNa4QM3oECB0QAA))](https://youtube.com/shorts/yGZhgMbDZ7I)
+
 
 
 
