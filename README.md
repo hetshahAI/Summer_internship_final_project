@@ -56,7 +56,8 @@ Summer_Internship_Final_Project/
 
 
 ---
-
+##📄 [Internship Project Report (PDF)](docs/project_report.pdf)
+---
 ## 📷 Screenshots (Optional)
 
 > Add visuals here to make it eye-catching:  
